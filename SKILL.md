@@ -4,7 +4,7 @@ description: Transform linear content into flowing, self-interrupting, tangent-r
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.5086
+  version: 1.0.5087
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - writing
